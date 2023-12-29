@@ -1,0 +1,29 @@
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+root {
+    --Bg-main:  #181a21;
+    --Bg-second: #292929 ;
+    --Bg-third:  #3c3c3c ;
+    --Bg-fourt: cornflowerblue ;
+    --Bg-light: #d3d3d3;
+  
+    --color-light: #d3d4d6 ;
+    --color-dark:  #757575 ;
+  
+    --animation-fast:   0.1s ease;
+    --animation-medium: 1s ease;
+  
+    --border-dark:  2px black inset ;
+    --border-light: 2px white inset;
+    --b-rad-xs: 4px;
+    --b-rad-sm: 8px;
+    --b-rad-md: 16px;
+    --b-rad-lg: 32px;
+    --brad-custom: 40px;
+  
+  }
